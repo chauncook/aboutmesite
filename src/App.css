@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Hind+Siliguri');
+
+.App {
+  align-content: center;
+  
+}
+
+.Nameclass {
+  font-size: 30px;
+  
+  
+  }
+
+.AppHeader header{
+font-family: 'Berkshire Swash', cursive;
+font-size: 60px;
+background-color:lightslategray;
+text-align: center;
+height: 100px;
+padding: 5%;
+border-style: solid;
+position: relative;
+
+
+}
+
+header img {
+  width: 300px;
+  height: 250px;
+  border-style: solid;
+  position: relative;
+  right: 400px;
+}
+
+.Nameclass {
+  font-size: 30px;
+  margin-top: 7%;
+  margin-left: 2%;
+    
+  }
+  
+ 
+.AppBio{
+  margin-top: 5%;
+  margin-left: 2%;
+  margin-right: 2%; 
+  font-size: 20px;
+  
+}
+
+.TechInterest {
+  margin-left: 2%;
+  margin-right: 2%;
+  font-size: 20px;
+}
+
+.jobHistory{
+font-family: 'Berkshire Swash', cursive;
+font-size: 50px;
+background-color:lightslategray;
+text-align: center;
+height: 60px;
+padding: 5%;
+position: relative;
+border-style: solid;
+}
+.jobsbody{
+  text-align: center;
+  font-size: 20px;
+}
+
+.Projects {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  background-color:lightslategray;
+  text-align: center;
+  height: 60px;
+  padding: 5%;
+  position: relative;
+  border-style: solid;
+}
+
+.Projectsbody {
+  text-align: center;
+}
+
+.homeFooter{
+  background-color: lightslategray;
+  padding: 2%;
+}
+
+
